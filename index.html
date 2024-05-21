@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ken Neth.WEB</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <center>
+  <h1>Brutal video warning!!</h1>
+<h2>This video is for Kids only!</h2>
+<h2>This video is for strong stomach!</h2>
+<h2>Don't eat after seeing this video</h2>
+
+  </center>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <a href="video.html"
+
+<button>Preview</button>
+<a href="billiard.html"
+<button>Billiard</button>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+button{
+  background-color: tomato;
+  color: black;
+  padding: 20px;
+  border-radius: 5px;
+  transition: opacity 1s;
+  box-shadow: 10px 10px 10px darkred;
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 95px;
+  margin-left: 1px;
+}
+button:hover{
+  opacity: 0.1;
+  background-color: darkred;
+}
+button:active{
+  opacity: 0.5;
+}
+body{
+  background-color: black;
+  
+  
+}
+h1{
+  color: darkred;
+}
+h2{
+  color: darkred;
+}
